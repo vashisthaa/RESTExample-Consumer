@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AzureRESTExample.iml" filepath="$PROJECT_DIR$/AzureRESTExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/../RESTExample-Consumer/AzureRESTExample/AzureRESTExample.iml" filepath="$PROJECT_DIR$/../RESTExample-Consumer/AzureRESTExample/AzureRESTExample.iml" />
     </modules>
   </component>
